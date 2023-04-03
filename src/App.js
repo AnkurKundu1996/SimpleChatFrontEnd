@@ -1,7 +1,9 @@
+import ChatPage from "./pages/ChatPage";
+
 function App() {
   return (
     <div className="App">
-      APP
+      <ChatPage />
     </div>
   );
 }
